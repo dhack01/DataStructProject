@@ -1,0 +1,285 @@
+﻿City, Country, AirQuality, WaterPollution
+New York City, United States of America,46.81603774,49.5049505
+Washington, D.C., United States of America,66.12903226,49.10714286
+San Francisco, United States of America,60.51401869,43
+Berlin, Germany,62.36413043,28.61271676
+Los Angeles, United States of America,36.62162162,61.29943503
+Bern, Switzerland,94.31818182,12.5
+Geneva, Switzerland,71.53846154,17.37288136
+Zurich, Switzerland,83.80952381,10.71428571
+Basel, Switzerland,81.66666667,26.92307692
+London, United Kingdom,37.04225352,40.71637427
+Cairo, Egypt,15.830721,74.35064935
+Alexandria, Egypt,41.03773585,71.2962963
+Alexandria, United States of America,89.0625,46.15384615
+Paris, France,34.02439024,43.12169312
+Boston, United States of America,78.23529412,32.91139241
+Toronto, Canada,65.53468208,37.7994012
+Sao Paulo, Brazil,24.05660377,73.71794872
+Vilnius, Lithuania,77.24719101,20.58823529
+Monaco, Monaco,28.78787879,61.36363636
+Brussels, Belgium,35.81081081,44.76190476
+Poznan, Poland,33.07692308,50.42372881
+Tashkent, Uzbekistan,56.4516129,49.16666667
+Warsaw, Poland,27.27272727,36.01485149
+Modena, Italy,39.0625,50
+Tours, France,84.375,6.25
+Singapore, Singapore,65.87837838,24.204947
+Montreal, Canada,70.76023392,36.96319018
+Cambridge, United Kingdom,69.82758621,30.55555556
+Cologne, Germany,60.71428571,27.77777778
+Skopje, North Macedonia,10.19417476,45.26315789
+Gdynia, Poland,49.41860465,48.61111111
+Szczecin, Poland,41.37931034,53.75
+Ljubljana, Slovenia,72.16494845,17.58241758
+Plovdiv, Bulgaria,31.41025641,36.29032258
+Sofia, Bulgaria,23.62132353,40.94339623
+Milan, Italy,24.39759036,39.49044586
+Trieste, Italy,58.87096774,29
+Lodz, Poland,28.84615385,40.44117647
+Villeurbanne, France,75,50
+Oslo, Norway,74.75728155,14.17525773
+Bonn, Germany,82.8125,22.5
+Katowice, Poland,27.77777778,48.33333333
+Lisbon, Portugal,64.60674157,24.85632184
+Rzeszow, Poland,37.5,47.05882353
+Dubai, United Arab Emirates,48.87387387,39.84615385
+Padua, Italy,29.16666667,50
+Bergamo, Italy,46.66666667,35
+Venice, Italy,36.25,67.85714286
+Rennes, France,62.5,35
+Lille, France,48.91304348,35.52631579
+Moscow, Russia,41.47526502,49.72527473
+Saint Petersburg, Russia,43.10344828,54.8816568
+Heilbronn, Germany,80,0
+Saginaw, United States of America,85,70
+Bialystok, Poland,34.52380952,52.94117647
+Nowy Sacz, Poland,30,100
+Lausanne, Switzerland,78.26086957,17.5
+Abakan, Russia,0,75
+Novosibirsk, Russia,36.48648649,54.05405405
+Yekaterinburg, Russia,27.90697674,58.33333333
+Samara, Russia,48.4375,51.5625
+Omsk, Russia,16.17647059,48.52941176
+Kazan, Russia,41.25,58.33333333
+Chelyabinsk, Russia,16.66666667,70.3125
+Ufa, Russia,20.83333333,68.18181818
+Volgograd, Russia,21.66666667,59.375
+Perm, Russia,44.44444444,50
+Krasnoyarsk, Russia,6.617647059,49.21875
+Beijing, People's Republic of China,21.36627907,70.78313253
+Vladivostok, Russia,35,67.5
+San Antonio, United States of America,63.41463415,50.67567568
+Tomsk, Russia,46.42857143,51.78571429
+Tbilisi, Georgia,22.98387097,49.34782609
+Maribor, Slovenia,76.25,18.75
+Celje, Slovenia,50,8.333333333
+Koper, Slovenia,87.5,0
+Aachen, Germany,70.45454545,17.85714286
+Nova Gorica, Slovenia,75,12.5
+Kranj, Slovenia,80.55555556,12.5
+Stuttgart, Germany,43.125,24.28571429
+Biel/Bienne, Switzerland,37.5,31.25
+Karlsruhe, Germany,87.5,5.555555556
+Hamburg, Germany,70.76271186,24.50980392
+Ahmedabad, India,32.96296296,66.9921875
+Salerno, Italy,60,58.33333333
+Prague, Czech Republic,63.21243523,25.70621469
+Jamnagar, India,34.48275862,58.33333333
+Busto Arsizio, Italy,0,75
+Mumbai, India,25.16025641,75.32537961
+Jerusalem, Israel,37.09677419,42.39130435
+Grenoble, France,34.09090909,26.47058824
+Dortmund, Germany,75,15.625
+Ghent, Belgium,55.46875,27.67857143
+Chicago, United States of America,57.43243243,53.62068966
+Como, Italy,58.33333333,40
+Montevideo, Uruguay,65.78947368,46.75324675
+Tolyatti, Russia,36.11111111,43.75
+Pittsburgh, United States of America,58.92857143,59.61538462
+Philadelphia, United States of America,54.28571429,55.64516129
+Kolkata, India,25.93457944,68.26923077
+Chennai, India,35.88435374,73.07017544
+Delhi, India,11.8441358,77.41679873
+Dhaka, Bangladesh,14.96815287,78.25342466
+Hyderabad, India,31.49253731,70.10703364
+Islamabad, Pakistan,67.41803279,51.32743363
+Zagreb, Croatia,69.7740113,26.59883721
+Genoa, Italy,51.72413793,30
+Manila, Philippines,17.01570681,83.7431694
+Quezon City, Philippines,23.80952381,80.12820513
+Le Mans, France,95,50
+Caloocan, Philippines,25,83.33333333
+Bordeaux, France,68.47826087,42.64705882
+Buenos Aires, Argentina,54.26470588,54.84375
+Mexico City, Mexico,18.07909605,69.59064327
+Tokyo, Japan,61.87150838,37.94117647
+La Paz, Bolivia,27.94117647,79.54545455
+Barcelona, Spain,35.49723757,51.31578947
+Makati, Philippines,34.21052632,70.94594595
+Nagpur, India,46.61016949,69.44444444
+Abidjan, Cote d'Ivoire,6.944444444,79.41176471
+Abu Dhabi, United Arab Emirates,55.98290598,37.99019608
+Athens, Greece,44.17412141,30.31561462
+Caracas, Venezuela,43.359375,69.06779661
+Pune, India,39.10788382,71.86147186
+Guatemala City, Guatemala,39.28571429,69.53125
+Havana, Cuba,46.66666667,50
+Valenzuela, Philippines,48.68421053,88.15789474
+Pasig, Philippines,27.94117647,82.69230769
+Antipolo, Philippines,60.29411765,75
+Osijek, Croatia,83.75,13.33333333
+Cagayan de Oro, Philippines,62.5,100
+Rijeka, Croatia,75,17.85714286
+Split, Croatia,71.71052632,30
+Butuan, Philippines,37.5,66.66666667
+Kiel, Germany,93.75,25
+Schwerin, Germany,87.5,50
+Potsdam, Germany,88.63636364,10.71428571
+Hanover, Germany,75,22.91666667
+D?sseldorf, Germany,64.81481481,23.91304348
+Mainz, Germany,86.11111111,35
+Wiesbaden, Germany,73.21428571,42.5
+Dubrovnik, Croatia,87.5,40
+Saarbr?cken, Germany,87.5,12.5
+Lipa, Philippines,87.5,25
+Munich, Germany,74.41860465,15.46610169
+Dresden, Germany,75,7.894736842
+Magdeburg, Germany,93.75,6.25
+Innsbruck, Austria,75,7.8125
+Bregenz, Austria,95,50
+Vienna, Austria,82.70547945,10.14492754
+Stockholm, Sweden,83.20610687,15.0390625
+Helsinki, Finland,89.88095238,15.49586777
+Dublin, Ireland,67.02380952,39.70588235
+Murmansk, Russia,57.14285714,14.28571429
+Reykjavik, Iceland,86.68478261,5.113636364
+Tallinn, Estonia,81.8877551,18.61702128
+Riga, Latvia,62.5,31.95652174
+Bratislava, Slovakia,62.32394366,32.46268657
+Budapest, Hungary,40.61032864,32.375
+Gdansk, Poland,45.55555556,45
+Frankfurt, Germany,63.39285714,25.98039216
+Wroclaw, Poland,25.68807339,35.4368932
+Kochi, India,36.5625,68.40277778
+Baguio, Philippines,26.88679245,66.4893617
+Kaliningrad, Russia,55,55
+Luxembourg, Luxembourg,83.10810811,20.45454545
+Vaduz, Liechtenstein,100,0
+San Marino, San Marino,87.5,50
+Phnom Penh, Cambodia,26.06382979,70.83333333
+Arkhangelsk, Russia,43.75,50
+Ho Chi Minh City, Vietnam,12.21910112,77.76162791
+Hanoi, Vietnam,15.70247934,77.35042735
+Bangkok, Thailand,26.85185185,70.83333333
+Andorra la Vella, Andorra,37.5,25
+Kuala Lumpur, Malaysia,39.43452381,65.68322981
+Taipei, Taiwan,52.47933884,44.87179487
+Odessa, Ukraine,50.5,58.85416667
+Concepcion, Chile,55.76923077,33.33333333
+Bologna, Italy,38.15789474,28.03030303
+Petrozavodsk, Russia,58.33333333,25
+Cagliari, Italy,71.05263158,20
+Catania, Italy,46.42857143,55.55555556
+Caserta, Italy,34.375,56.25
+Ottawa, Canada,84.56375839,27.99295775
+Juba, South Sudan,62.5,75
+Yerevan, Armenia,41.81034483,35
+Vologda, Russia,62.5,25
+Dar es Salaam, Tanzania,46.875,76
+Khartoum, Sudan,42.85714286,78.125
+Verona, Italy,36.11111111,42.85714286
+Iqaluit, Canada,50,50
+Florence, Italy,52.67857143,36
+Whitehorse, Canada,92.5,12.5
+Yellowknife, Canada,87.5,43.75
+Essen, Germany,80,4.166666667
+Leipzig, Germany,84.21052632,20
+St. John's, Canada,90.625,35.41666667
+Nuremberg, Germany,75,12.5
+Edmonton, Canada,72.03703704,27.46212121
+Duisburg, Germany,53.57142857,31.25
+Bochum, Germany,68.18181818,25
+Wuppertal, Germany,90,0
+Bielefeld, Germany,67.85714286,50
+Mannheim, Germany,51.08695652,30.55555556
+Regina, Canada,68.57142857,42.74193548
+Charlottetown, Canada,97.5,20
+Victoria, Canada,92.72151899,27.7027027
+Winnipeg, Canada,71.31147541,42.64705882
+Fredericton, Canada,90,31.25
+Halifax, Canada,84.57446809,36.25
+Cherepovets, Russia,0,100
+Quebec City, Canada,82.5,43.75
+Arica, Chile,75,50
+Pskov, Russia,100,50
+Veliky Novgorod, Russia,100,50
+Birmingham, United Kingdom,52.97619048,25.64102564
+Minsk, Belarus,60.9223301,41.40625
+Tver, Russia,62.5,37.5
+Smolensk, Russia,50,54.16666667
+Yaroslavl, Russia,16.66666667,58.33333333
+Mogadishu, Somalia,60,57.5
+Nassau, The Bahamas,50,59.25925926
+Sanaa, Yemen,41.66666667,91.66666667
+Ivanovo, Russia,33.33333333,87.5
+Naples, Italy,28.84615385,55.31914894
+Palermo, Italy,45.45454545,51.31578947
+Gomel, Belarus,44.73684211,53.57142857
+Parma, Italy,34.375,56.81818182
+Vladimir, Russia,37.5,50
+Pescara, Italy,61.11111111,79.16666667
+Bremerhaven, Germany,75,50
+M?nster, Germany,71.875,25
+Ryazan, Russia,0,91.66666667
+Augsburg, Germany,73.52941176,26.92307692
+Siena, Italy,81.25,21.42857143
+Gelsenkirchen, Germany,62.5,50
+Tula, Russia,33.33333333,75
+Udine, Italy,72.5,33.33333333
+Chemnitz, Germany,87.5,50
+Krefeld, Germany,87.5,50
+Madrid, Spain,36.23417722,18.95424837
+Halle (Saale), Germany,75,0
+Freiburg im Breisgau, Germany,88.33333333,5
+Oberhausen, Germany,62.5,50
+Bogota, Colombia,23.35025381,48.15789474
+L?beck, Germany,100,25
+Brasilia, Brazil,76.53061224,38.04347826
+Rostock, Germany,90.625,37.5
+Kassel, Germany,75,50
+Lima, Peru,19.75,76.04166667
+Hagen, Germany,100,50
+Hamm, Germany,87.5,50
+Santiago, Chile,17.71523179,40.23972603
+Quito, Ecuador,35.86956522,53.07692308
+Ludwigshafen, Germany,75,0
+Osnabr?ck, Germany,82.14285714,0
+Asuncion, Paraguay,39.65517241,67
+Oldenburg, Germany,75,18.75
+Leverkusen, Germany,83.33333333,50
+Solingen, Germany,87.5,50
+Neuss, Germany,50,75
+Heidelberg, Germany,89.28571429,25
+Paderborn, Germany,75,25
+Darmstadt, Germany,71.875,27.5
+Regensburg, Germany,87.5,7.142857143
+Paramaribo, Suriname,61.36363636,54.54545455
+Ingolstadt, Germany,100,0
+Ulm, Germany,88.88888889,10
+Wolfsburg, Germany,96.875,0
+Kathmandu, Nepal,11.46341463,80.45685279
+Offenbach am Main, Germany,75,50
+Belmopan, Belize,62.5,54.16666667
+Pforzheim, Germany,85,25
+Recklinghausen, Germany,100,50
+Bottrop, Germany,80,0
+San Jose, Costa Rica,57.43243243,46.09375
+Reutlingen, Germany,85,25
+Koblenz, Germany,67.85714286,41.66666667
+San Salvador, El Salvador,18.42105263,76.5625
+Canberra, Australia,90.74675325,17.80821918
+Erlangen, Germany,81.25,29.16666667
+Sydney, Australia,75.88996764,28.54785479
+Moers, Germany,62.5,50
+Trier, Germany,85.71428571,25
