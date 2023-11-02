@@ -31,6 +31,5 @@ AUList csvtoAUList(string cityQual) {
 int main() {
     AUList cityQualLS = csvtoAUList("cityQual.csv");
     cityQualLS.PrintList(); //Print the data record-by-record
-    cout << "yews";
     return 0;
 }
